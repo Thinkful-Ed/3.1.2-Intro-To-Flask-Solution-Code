@@ -1,3 +1,5 @@
+# my_module.py
+
 def my_function():
     print("Function in my_module.py")
 
