@@ -17,7 +17,7 @@ This repository contains a simple Flask application and demonstrates the basic s
 2. `cd` into the newly created directory.
 3. Set up a virtual environment:
    ```shell
-   python3 -m venv first_flask_app_env
+   python -m venv first_flask_app_env
    ```
 4. Activate the virtual environment. Depending on your operating system, use one of the following:
    * On macOS and Linux:
